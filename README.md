@@ -16,8 +16,8 @@
 
   <div>
    <a href="https://www.linkedin.com/in/elisiane-quadros/">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LisiQuadros&show_icons=true&theme=github_dark"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisiQuadros&layout=compact&langs_count=7&theme=github_dark"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LisiQuadros&show_icons=true&theme=github_dark"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisiQuadros&layout=compact&langs_count=7&theme=github_dark"/>
   </div>
   
   ## 💻⚙️Tecnologias e ferramentas que utilizo
