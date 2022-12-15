@@ -11,7 +11,7 @@
 -  👨‍👩‍👧🐶família, 🖥️programação, 🤖tecnologia e ⛱️praia, são minhas paixões
 - 🎮 Atualmente trabalho como professora de programação de jogos e aplicativos, para adolescentes.
 - 👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas. 
-- 👩‍💻 Cursando Trilha Ignite da Rocketseat.
+- 👩‍💻 Cursando Trilha Ignite da Rocketseat 🚀.
 </br>
 
   <div>
